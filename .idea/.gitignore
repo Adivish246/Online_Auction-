@@ -1,0 +1,22 @@
+# Default ignored files
+/shelf/
+/workspace.xml
+# Byte-compiled / optimized / DLL files
+*.pyc
+__pycache__/
+
+# SQLite database file
+*.sqlite3
+
+# Virtual environment
+env/
+
+# macOS metadata
+.DS_Store
+
+# IDE/editor settings
+*.idea/
+*.vscode/
+
+# Sensitive configuration
+secrets.py
